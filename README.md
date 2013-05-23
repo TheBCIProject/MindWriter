@@ -29,4 +29,4 @@ First edition: 8 june
 TODO:
 =====
   - Makefile
-  - Interface principale avec sfml
+  - SFML made
