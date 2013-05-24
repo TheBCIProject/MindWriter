@@ -1,23 +1,6 @@
 MindWriter
 ==========
 
-Programme d'écriture avec la pensée
-
-Premier livrable: 8 juin
-  - Interface simple sans distraction
-  - Affiche 2 mots/seconde au centre de la fenetre
-  - Un boutton/touche du clavier permet de selecitonner le mot
-  - Le mot sélectionner est ajouter a une zone de texte
-
-TODO:
-=====
-  - Makefile
-  - Interface principale avec sfml
-
-
-MindWriter
-==========
-
 Mind writting program
 
 First edition: 8 june
@@ -28,5 +11,12 @@ First edition: 8 june
 
 TODO:
 =====
-  - Makefile
-  - SFML made
+  - <del>Makefile</del>
+  - <del>SFML main interface</del>
+  - create a class FlashingLetter that derive from sf::Transformable
+  - Integrate the new class in main.cpp
+  - Add a text input area
+  - Changer la position des lettres pour une position relative et non absolue
+  - Beautify interface
+  - Start the letter prediction algorythm
+  - be happy
